@@ -6,8 +6,6 @@ website URL, area, city, state and pin code. The extracted information then be d
 In addition, the application allow users to save the extracted information into a database along with the uploaded business card image. 
 The database is able to store multiple entries, each with its own business card image and extracted information.
 
-Step 1 
-
 # Install required packages 
 
 Install required libraries streamlit , easyOCR , MySQL 
